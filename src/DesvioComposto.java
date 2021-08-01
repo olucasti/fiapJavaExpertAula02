@@ -9,7 +9,7 @@ public class DesvioComposto {
 		
 		Scanner leitor = new Scanner(System.in);
 		double doacao, investimento=0, usoImediato=0;
-		System.out.println("Por favor, digite o valor da doação recebida!");
+		System.out.println("Por favor, digite o valor da doação recebida: ");
 		doacao = leitor.nextDouble();
 	
 		/*Aqui devemos criar uma solução para realizar os cálculos adequados baseando-nos no valor da doação*/
